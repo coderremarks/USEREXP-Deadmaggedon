@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30e53f0ba9396f44084e46acde847758
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - chosenStructure: {instanceID: 0}
+  - _buildMat: {fileID: 2100000, guid: ea56e14b6e1ce134f803cd0d1adb8f19, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

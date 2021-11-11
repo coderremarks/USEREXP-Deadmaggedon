@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ally
+  - Structure
+  - FountainPoint
+  - PlayerSpawnPoint
+  - EnemySpawnPoint
+  - Unit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - World
+  - Water
+  - UI
+  - Team1
+  - Team2
+  - Projectile
+  - Structure
+  - TutorialBot
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3341070037
+    locked: 0
+  - name: Top
+    uniqueID: 3014079123
+    locked: 0
